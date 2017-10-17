@@ -18,5 +18,4 @@ Disadvantages of Realm:
 •	Can’t access objects across threads. 
 
 References:
-1.  Android Hive 
-2.	Valokafor
+1.  [Android Hive](https://www.androidhive.info/2016/05/android-working-with-realm-database-replacing-sqlite-core-data/) 
